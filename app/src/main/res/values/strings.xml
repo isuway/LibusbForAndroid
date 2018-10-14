@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LibusbForAndroid</string>
+    <string name="app_title">Libusb Terminal</string>
+    <string name="refreshing">Refreshing…</string>
+    <string name="send_button">Send</string>
+    <string name="text_transmit_hint">text to transmit</string>
+</resources>
